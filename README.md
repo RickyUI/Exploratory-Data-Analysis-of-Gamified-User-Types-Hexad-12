@@ -11,9 +11,13 @@ This exploratory data analysis (EDA) examines Hexad-12 user motivation profiles 
 ## Repository Structure
 
 ├── datasets/ # Original data or download/documentation scripts
+
 ├── notebooks/ # Jupyter/Colab notebooks with the main EDA analysis
+
 ├── img/ # Visualizations and generated plots
+
 ├── requirements.txt # Python dependencies for reproducibility
+
 └── README.md # This documentation file
 
 ## Technologies Used
