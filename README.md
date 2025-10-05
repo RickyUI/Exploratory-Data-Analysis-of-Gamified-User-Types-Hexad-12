@@ -42,6 +42,6 @@ If you prefer, you can contact me for any help or translation.
 3. Open the notebooks in Google Colab or locally to execute the analysis and explore insights.
 
 ## Credits and Data Sources
-- Dataset: ...
+- Dataset: [Hexad-12 Analysis Document](dataset/dataset-hexad-12-study-2.csv)
 - Based on the Hexad gamification model by Andrzej Marczewski.
 
