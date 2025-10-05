@@ -8,6 +8,10 @@ This exploratory data analysis (EDA) examines Hexad-12 user motivation profiles 
 - Explore relationships between motivational profiles and demographic variables.
 - Discover correlations and insights for designing engaging gamified systems.
 
+## Language / Idioma
+This project and all analysis are written in Spanish. 
+If you prefer, you can contact me for any help or translation.
+
 ## Repository Structure
 
 ├── datasets/ # Original data or download/documentation scripts
